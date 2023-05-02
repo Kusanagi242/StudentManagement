@@ -21,6 +21,7 @@ public class Student {
 		
 		System.out.print("Enter student last name: ");
 		this.lastName = in.nextLine();
+//		System.out.println("hello");
 		
 		System.out.print("1. Freshman \n"
 						+ "2. Sophmore \n"
